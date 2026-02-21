@@ -1,6 +1,6 @@
 #Quiz
 import streamlit as st
-
+st.set_page_config(initial_sidebar_state="expanded")
 st.title("🍽️ GT Dining Match Quiz") 
 
 st.write("Answer a few questions and I'll match you with your best GT dining option!")  # basic
