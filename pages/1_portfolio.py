@@ -1,7 +1,7 @@
 import streamlit as st
 import info
 import pandas as pd
-
+st.set_page_config(initial_sidebar_state="expanded")
 #About Me
 def about_me_section():
     st.header("About Me")
