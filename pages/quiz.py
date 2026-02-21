@@ -5,9 +5,9 @@ st.title("🍽️ GT Dining Match Quiz")
 
 st.write("Answer a few questions and I'll match you with your best GT dining option!")  # basic
 
-st.image("images/nave.png", caption="North Avenue Dining Hall (Nav)", use_container_width=True)  #NEW
-st.image("images/willage.png", caption="Willage Dining Hall", use_container_width=True)  #NEW
-st.image("images/student_center.png", caption="Student Center Options", use_container_width=True)  #NEW
+st.image("nave.png", caption="North Avenue Dining Hall (Nav)"), use_container_width=True) 
+st.image("willage.png", caption="Willage Dining Hall", use_container_width=True)
+st.image("student_center.png", caption="Student Center Options", use_container_width=True) 
 
 st.divider()  
 
